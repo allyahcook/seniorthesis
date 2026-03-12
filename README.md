@@ -1,4 +1,5 @@
-# TITLE
+# Hanapaʻa!: Characterizing PFAS Contamination and Exposure Through Fish Consumption on Oʻahu, Hawaiʻi, to Inform Health Guidelines
+
 ## Ally Ah Cook
 ## A Senior Thesis for the OEB Department at Harvard University
 
